@@ -1,5 +1,5 @@
 # Connect 4 
-Connect 4 game in Python
+Connect 4 game with Python GUI
 
 How to Play:
 
